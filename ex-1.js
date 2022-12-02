@@ -1,0 +1,1 @@
+// 1.Installed Node.js and VS Code on your computer.
